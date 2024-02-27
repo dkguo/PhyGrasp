@@ -1,0 +1,218 @@
+[
+    {
+        "Material": "aluminum",
+        "Friction": 0.35,
+        "Density": 2700,
+        "Fragility": 4
+    },
+    {
+        "Material": "steel",
+        "Friction": 0.45,
+        "Density": 7850,
+        "Fragility": 5
+    },
+    {
+        "Material": "copper",
+        "Friction": 0.36,
+        "Density": 8960,
+        "Fragility": 4
+    },
+    {
+        "Material": "iron",
+        "Friction": 0.47,
+        "Density": 7874,
+        "Fragility": 5
+    },
+    {
+        "Material": "brass",
+        "Friction": 0.38,
+        "Density": 8530,
+        "Fragility": 4
+    },
+    {
+        "Material": "bronze",
+        "Friction": 0.37,
+        "Density": 8800,
+        "Fragility": 4
+    },
+    {
+        "Material": "nickel",
+        "Friction": 0.39,
+        "Density": 8908,
+        "Fragility": 4
+    },
+    {
+        "Material": "tin",
+        "Friction": 0.32,
+        "Density": 7310,
+        "Fragility": 3
+    },
+    {
+        "Material": "lead",
+        "Friction": 0.3,
+        "Density": 11340,
+        "Fragility": 3
+    },
+    {
+        "Material": "zinc",
+        "Friction": 0.33,
+        "Density": 7140,
+        "Fragility": 3
+    },
+    {
+        "Material": "titanium",
+        "Friction": 0.38,
+        "Density": 4500,
+        "Fragility": 4
+    },
+    {
+        "Material": "silicon",
+        "Friction": 0.6,
+        "Density": 2330,
+        "Fragility": 2
+    },
+    {
+        "Material": "gold",
+        "Friction": 0.47,
+        "Density": 19300,
+        "Fragility": 3
+    },
+    {
+        "Material": "silver",
+        "Friction": 0.38,
+        "Density": 10490,
+        "Fragility": 3
+    },
+    {
+        "Material": "platinum",
+        "Friction": 0.4,
+        "Density": 21450,
+        "Fragility": 3
+    },
+    {
+        "Material": "quartz",
+        "Friction": 0.45,
+        "Density": 2650,
+        "Fragility": 2
+    },
+    {
+        "Material": "granite",
+        "Friction": 0.55,
+        "Density": 2750,
+        "Fragility": 2
+    },
+    {
+        "Material": "marble",
+        "Friction": 0.5,
+        "Density": 2560,
+        "Fragility": 2
+    },
+    {
+        "Material": "glass",
+        "Friction": 0.5,
+        "Density": 2500,
+        "Fragility": 1
+    },
+    {
+        "Material": "fiberglass",
+        "Friction": 0.6,
+        "Density": 2020,
+        "Fragility": 3
+    },
+    {
+        "Material": "polyester",
+        "Friction": 0.4,
+        "Density": 1380,
+        "Fragility": 2
+    },
+    {
+        "Material": "nylon",
+        "Friction": 0.35,
+        "Density": 1150,
+        "Fragility": 4
+    },
+    {
+        "Material": "linen",
+        "Friction": 0.4,
+        "Density": 1500,
+        "Fragility": 4
+    },
+    {
+        "Material": "leather",
+        "Friction": 0.5,
+        "Density": 860,
+        "Fragility": 4
+    },
+    {
+        "Material": "rubber",
+        "Friction": 0.8,
+        "Density": 1522,
+        "Fragility": 5
+    },
+    {
+        "Material": "neoprene",
+        "Friction": 0.7,
+        "Density": 1700,
+        "Fragility": 4
+    },
+    {
+        "Material": "latex",
+        "Friction": 0.8,
+        "Density": 1015,
+        "Fragility": 4
+    },
+    {
+        "Material": "plywood",
+        "Friction": 0.5,
+        "Density": 600,
+        "Fragility": 4
+    },
+    {
+        "Material": "bamboo",
+        "Friction": 0.38,
+        "Density": 700,
+        "Fragility": 4
+    },
+    {
+        "Material": "ceramics",
+        "Friction": 0.7,
+        "Density": 2300,
+        "Fragility": 1
+    },
+    {
+        "Material": "porcelain",
+        "Friction": 0.7,
+        "Density": 2400,
+        "Fragility": 1
+    },
+    {
+        "Material": "terracotta",
+        "Friction": 0.55,
+        "Density": 1800,
+        "Fragility": 2
+    },
+    {
+        "Material": "clay",
+        "Friction": 0.5,
+        "Density": 1600,
+        "Fragility": 2
+    },
+    {
+        "Material": "cardboard",
+        "Friction": 0.3,
+        "Density": 689,
+        "Fragility": 2
+    },
+    {
+        "Material": "wood",
+        "Friction": 0.4,
+        "Density": 700,
+        "Fragility": 3
+    },
+    {
+        "Material": "plastic",
+        "Friction": 0.4,
+        "Density": 1400,
+        "Fragility": 3
+    }
+]
